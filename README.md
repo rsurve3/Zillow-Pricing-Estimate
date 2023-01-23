@@ -38,16 +38,27 @@ High Level Bus Matrix
 ![image](https://user-images.githubusercontent.com/122759737/213983949-3167f674-9ad7-4abb-88c7-fd2a6722791b.png)
 
 Detailed Bus Diagram
+
+
 ![image](https://user-images.githubusercontent.com/122759737/213983989-e0cc6d5b-f13f-46b6-b1a7-66a404a4aba6.png)
 
-Prioritization Grid
-![image](https://user-images.githubusercontent.com/122759737/213984032-01d5f119-27fb-41c9-bfed-f6874da28a27.png)
+
 
 Logical Diagram - Sales / Rental
+
+
+
 ![image](https://user-images.githubusercontent.com/122759737/213984095-6fb935de-8565-4232-8615-04e30b8656e3.png)
 
+
+
 Logical Diagram - Home Loan
+
+
 ![image](https://user-images.githubusercontent.com/122759737/213984135-2f25a55c-65f7-48d3-91fc-819c3eeebccd.png)
+
+
+
 
 Conformed Dimension
 When a dimension table connects to more than one fact table, it represents the same dimension table in both schemas, then, we refer to such dimension tables as conformed between the two-dimensional models.
@@ -57,23 +68,57 @@ Professionals
 Agents
 Location
 
+
+
 Star Schema - Rental
+
+
+
+
 ![image](https://user-images.githubusercontent.com/122759737/213984231-327a8e6b-1f3b-421f-ad94-3cd52b51b69b.png)
 
+
+
+
 Star Schema - Sales
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/122759737/213984250-a865d8a9-2197-4923-b438-0142405ce206.png)
 
+
+
+
 Star Schema - Home Loan
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/122759737/213984280-e79a203e-6518-459b-bed6-2e358168cb93.png)
+
+
+
 
 Proprty Cube
 ![image](https://user-images.githubusercontent.com/122759737/213984321-3cc65273-5465-40ee-bbed-a914a0ae4305.png)
 
+
+
+
 Excel Pivot Table
 ![image](https://user-images.githubusercontent.com/122759737/213984363-bd16ffff-3180-4ac4-ae10-3e6f5ee87880.png)
 
+
+
+
 Tableau Structure Dashboard
 ![image](https://user-images.githubusercontent.com/122759737/213984405-2c0dbe42-b79e-4277-9984-bf8bd356198e.png)
+
+
+
 
 Price Dashboard
 ![image](https://user-images.githubusercontent.com/122759737/213984436-568e63ec-cfb2-48b3-90e5-2d8b7bc9cbab.png)
