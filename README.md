@@ -39,7 +39,7 @@ The Mortgage segment provides home loans; and marketing products including custo
 **Opportunity Matrix**
 
 
-![image](https://user-images.githubusercontent.com/122759737/213985373-7a9ed7c6-39dc-4017-984c-7d46e2a221c2.png)
+![image](https://user-images.githubusercontent.com/122759737/213985585-7191e8cf-5497-4aad-8d67-44327c368d06.png)
 
 
 
@@ -55,7 +55,7 @@ The Mortgage segment provides home loans; and marketing products including custo
 
 
 
-![image](https://user-images.githubusercontent.com/122759737/213985265-cb4b6eb0-990a-4794-a345-c1c4d6a2f524.png)
+![image](https://user-images.githubusercontent.com/122759737/213985625-89d648f4-7eff-43b6-a0d3-4ba6f7716d1d.png)
 
 
 
