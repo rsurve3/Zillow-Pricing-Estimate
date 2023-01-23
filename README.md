@@ -51,15 +51,6 @@ The Mortgage segment provides home loans; and marketing products including custo
 
 
 
-**Detailed Bus Diagram**
-
-
-
-![image](https://user-images.githubusercontent.com/122759737/213985625-89d648f4-7eff-43b6-a0d3-4ba6f7716d1d.png)
-
-
-
-
 **Logical Diagram - Sales / Rental**
 
 
